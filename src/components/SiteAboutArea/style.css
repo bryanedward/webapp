@@ -1,0 +1,15 @@
+/*  about area*/
+.site-main .about-area{
+    padding: 8rem 5rem;
+}
+
+.site-main .about-area .about-title h2 > span{
+    display: block;
+    letter-spacing: 21px;
+    font: normal bold 49px/60px var(--roboto);
+}
+
+.site-main .about-area .about-title .paragraph > p{
+    padding: .4rem 0;
+    font-style: italic;
+}
